@@ -1,4 +1,4 @@
-I am just an 18-year-old guy who knows `Java`, `Python`, `Django`(and what goes with it `Django REST Framework`, `Channels` and `Celery`, `Graphene Django`), `HTML`, `CSS`, `JavaScript`, `Typescript`, `React`, `Redux`,  `NextJS`, `GraphQL`. I also know how to write smart contracts in `Solidity` and integrating it with `ethers.js`.
+I am just an 18-year-old guy who knows `Java`, `Python`, `Django`(and what goes with it `Django REST Framework`, `Channels` and `Celery`, `Graphene Django`), `HTML`, `CSS`, `JavaScript`, `Typescript`, `React`, `Redux`,  `NextJS`, `GraphQL`.
 
 ## 📈 GitHub Stats
 <br>
