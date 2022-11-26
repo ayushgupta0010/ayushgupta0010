@@ -1,4 +1,4 @@
-I am just a 19-year-old guy who knows `Python`, `Django`(and what goes with it `Django REST Framework`, `Channels` and `Celery`, `Graphene Django`), `HTML`, `CSS`, `JavaScript`, `React`, `Redux`,  `NextJS`, `GraphQL`, `Firebase`.
+I am just a 19-year-old guy who knows `Python`, `Django`(and what goes with it `Django REST Framework`, `Channels` and `Celery`, `Graphene Django`), `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `NextJS`, `GraphQL`, `Express`, `Firebase`.
 
 ## 📈 GitHub Stats
 <br>
