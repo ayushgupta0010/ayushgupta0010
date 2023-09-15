@@ -1,4 +1,4 @@
-I know `Python`, `Django`(and what goes with it `Django REST Framework`, `Channels` and `Celery`, `Graphene Django`), `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `NextJS`, `GraphQL`, `Express`, `Firebase`, `Redis`.
+I know `C\C++` `Python`, `Django`, `Django REST Framework`, `Django Channels`, `Celery`, `Graphene Django`, `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `NextJS`, `GraphQL`, `Express`, `Firebase`, and `Redis`.
 
 ## 📈 GitHub Stats
 <br>
