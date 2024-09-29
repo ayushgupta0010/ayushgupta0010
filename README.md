@@ -1,5 +1,3 @@
-I know `Java`, `C\C++`, `Python`, `Django`, `Django REST Framework`, `Django Channels`, `Celery`, `Graphene Django`, `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `NextJS`, `GraphQL`, `Express`, `Firebase`, and `Redis`.
-
 ## 📈 GitHub Stats
 <br>
 <p align="center">
